@@ -1,0 +1,19 @@
+body{
+    color: white
+}
+.pic{
+    width: 150px;
+    height: 150px;
+}
+.picc{
+    outline: dashed black;
+    width:150px;
+    height: 150px;
+    background-color: aqua;
+}
+#one{
+    margin-left:20px;
+}
+#e{
+    color:red;
+}
